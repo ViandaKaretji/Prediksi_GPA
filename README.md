@@ -11,3 +11,9 @@ Prediksi GPA Berdasarkan Study Time Weekly, Absences, Tutoring dan Grade Class
 
 ## Dataset 
 https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data
+
+## Google Collab 
+https://colab.research.google.com/drive/1T2v0a0aOTFfnUSHxRyvLFGA2hosTnn-D?usp=sharing#scrollTo=p8WmEf6OG8r2
+
+## Dashboard 
+https://lookerstudio.google.com/reporting/096fe8ff-102c-4c5a-8449-96b16251d9b6
